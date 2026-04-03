@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/corallilac-crochet/static/css/main.e6c13ad2.css",
+    "main.js": "/corallilac-crochet/static/js/main.13b51030.js",
+    "static/js/453.e9e7ec89.chunk.js": "/corallilac-crochet/static/js/453.e9e7ec89.chunk.js",
+    "index.html": "/corallilac-crochet/index.html",
+    "main.e6c13ad2.css.map": "/corallilac-crochet/static/css/main.e6c13ad2.css.map",
+    "main.13b51030.js.map": "/corallilac-crochet/static/js/main.13b51030.js.map",
+    "453.e9e7ec89.chunk.js.map": "/corallilac-crochet/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.13b51030.js"
+  ]
+}
